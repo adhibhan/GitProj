@@ -6,6 +6,8 @@ public class GitFirst {
 		// TODO Auto-generated method stub
 		
 		System.out.println("This is the first Git");
+		
+		System.out.println("This is the second commit");
 
 	}
 
